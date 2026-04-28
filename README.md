@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nidhiansh/leetcode/tree/master/0042-trapping-rain-water) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -30,5 +31,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nidhiansh/leetcode/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nidhiansh/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Nidhiansh/leetcode/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Nidhiansh/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Nidhiansh/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
