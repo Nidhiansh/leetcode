@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nidhiansh/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Nidhiansh/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Nidhiansh/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Nidhiansh/leetcode/tree/master/0079-word-search) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nidhiansh/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nidhiansh/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Nidhiansh/leetcode/tree/master/0455-assign-cookies) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Nidhiansh/leetcode/tree/master/0079-word-search) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nidhiansh/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nidhiansh/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiansh/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Nidhiansh/leetcode/tree/master/0079-word-search) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nidhiansh/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## String
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Nidhiansh/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Nidhiansh/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/Nidhiansh/leetcode/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/Nidhiansh/leetcode/tree/master/0079-word-search) |
 | [0394-decode-string](https://github.com/Nidhiansh/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Nidhiansh/leetcode/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nidhiansh/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Nidhiansh/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Nidhiansh/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Nidhiansh/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Nidhiansh/leetcode/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
