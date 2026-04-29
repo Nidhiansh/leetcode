@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nidhiansh/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Nidhiansh/leetcode/tree/master/0455-assign-cookies) |
 | [0735-asteroid-collision](https://github.com/Nidhiansh/leetcode/tree/master/0735-asteroid-collision) |
+| [0877-stone-game](https://github.com/Nidhiansh/leetcode/tree/master/0877-stone-game) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nidhiansh/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Depth-First Search
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nidhiansh/leetcode/tree/master/0042-trapping-rain-water) |
+| [0877-stone-game](https://github.com/Nidhiansh/leetcode/tree/master/0877-stone-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nidhiansh/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0877-stone-game](https://github.com/Nidhiansh/leetcode/tree/master/0877-stone-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nidhiansh/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Simulation
 |  |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nidhiansh/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nidhiansh/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiansh/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Nidhiansh/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
