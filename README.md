@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Nidhiansh/leetcode/tree/master/0877-stone-game) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nidhiansh/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Nidhiansh/leetcode/tree/master/0079-word-search) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nidhiansh/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nidhiansh/leetcode/tree/master/0042-trapping-rain-water) |
 | [0396-rotate-function](https://github.com/Nidhiansh/leetcode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/Nidhiansh/leetcode/tree/master/0877-stone-game) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
