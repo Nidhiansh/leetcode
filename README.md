@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Nidhiansh/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Nidhiansh/leetcode/tree/master/0079-word-search) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nidhiansh/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0396-rotate-function](https://github.com/Nidhiansh/leetcode/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nidhiansh/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Nidhiansh/leetcode/tree/master/0455-assign-cookies) |
 | [0735-asteroid-collision](https://github.com/Nidhiansh/leetcode/tree/master/0735-asteroid-collision) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nidhiansh/leetcode/tree/master/0042-trapping-rain-water) |
+| [0396-rotate-function](https://github.com/Nidhiansh/leetcode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/Nidhiansh/leetcode/tree/master/0877-stone-game) |
 ## Monotonic Stack
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nidhiansh/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0396-rotate-function](https://github.com/Nidhiansh/leetcode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/Nidhiansh/leetcode/tree/master/0877-stone-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nidhiansh/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Simulation
