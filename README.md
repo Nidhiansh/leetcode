@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Nidhiansh/leetcode/tree/master/0079-word-search) |
 | [0394-decode-string](https://github.com/Nidhiansh/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Nidhiansh/leetcode/tree/master/0402-remove-k-digits) |
+| [0796-rotate-string](https://github.com/Nidhiansh/leetcode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nidhiansh/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0585-investments-in-2016](https://github.com/Nidhiansh/leetcode/tree/master/0585-investments-in-2016) |
 | [1164-product-price-at-a-given-date](https://github.com/Nidhiansh/leetcode/tree/master/1164-product-price-at-a-given-date) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Nidhiansh/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
