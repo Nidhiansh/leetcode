@@ -159,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Nidhiansh/leetcode/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nidhiansh/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nidhiansh/leetcode/tree/master/0328-odd-even-linked-list) |
+## Database
+|  |
+| ------- |
+| [0585-investments-in-2016](https://github.com/Nidhiansh/leetcode/tree/master/0585-investments-in-2016) |
 <!---LeetCode Topics End-->
