@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Nidhiansh/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nidhiansh/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Nidhiansh/leetcode/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/Nidhiansh/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Nidhiansh/leetcode/tree/master/0079-word-search) |
 | [0394-decode-string](https://github.com/Nidhiansh/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Nidhiansh/leetcode/tree/master/0402-remove-k-digits) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nidhiansh/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/Nidhiansh/leetcode/tree/master/0076-minimum-window-substring) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nidhiansh/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiansh/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Backtracking
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Nidhiansh/leetcode/tree/master/0796-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Nidhiansh/leetcode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
