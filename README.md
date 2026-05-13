@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Nidhiansh/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nidhiansh/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2326-spiral-matrix-iv](https://github.com/Nidhiansh/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Nidhiansh/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nidhiansh/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Nidhiansh/leetcode/tree/master/0079-word-search) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nidhiansh/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2326-spiral-matrix-iv](https://github.com/Nidhiansh/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## String
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nidhiansh/leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Nidhiansh/leetcode/tree/master/0735-asteroid-collision) |
+| [2326-spiral-matrix-iv](https://github.com/Nidhiansh/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Nidhiansh/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Greedy
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Nidhiansh/leetcode/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nidhiansh/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nidhiansh/leetcode/tree/master/0328-odd-even-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/Nidhiansh/leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Database
 |  |
 | ------- |
