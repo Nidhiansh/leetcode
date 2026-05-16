@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Nidhiansh/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Nidhiansh/leetcode/tree/master/0079-word-search) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nidhiansh/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nidhiansh/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Nidhiansh/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nidhiansh/leetcode/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/Nidhiansh/leetcode/tree/master/0396-rotate-function) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nidhiansh/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Nidhiansh/leetcode/tree/master/0268-missing-number) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nidhiansh/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiansh/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
