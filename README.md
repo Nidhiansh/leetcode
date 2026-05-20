@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nidhiansh/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nidhiansh/leetcode/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/Nidhiansh/leetcode/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/Nidhiansh/leetcode/tree/master/0399-evaluate-division) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nidhiansh/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Nidhiansh/leetcode/tree/master/0455-assign-cookies) |
 | [0735-asteroid-collision](https://github.com/Nidhiansh/leetcode/tree/master/0735-asteroid-collision) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Nidhiansh/leetcode/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/Nidhiansh/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Nidhiansh/leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Nidhiansh/leetcode/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nidhiansh/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nidhiansh/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiansh/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Nidhiansh/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Nidhiansh/leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Nidhiansh/leetcode/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nidhiansh/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiansh/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1306-jump-game-iii](https://github.com/Nidhiansh/leetcode/tree/master/1306-jump-game-iii) |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Nidhiansh/leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Nidhiansh/leetcode/tree/master/0399-evaluate-division) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Matrix
 |  |
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Nidhiansh/leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Nidhiansh/leetcode/tree/master/0097-interleaving-string) |
 | [0394-decode-string](https://github.com/Nidhiansh/leetcode/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Nidhiansh/leetcode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Nidhiansh/leetcode/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/Nidhiansh/leetcode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nidhiansh/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -223,4 +228,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Nidhiansh/leetcode/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/Nidhiansh/leetcode/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Nidhiansh/leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
