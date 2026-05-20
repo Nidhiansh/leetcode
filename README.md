@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/Nidhiansh/leetcode/tree/master/0585-investments-in-2016) |
 | [1164-product-price-at-a-given-date](https://github.com/Nidhiansh/leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1527-patients-with-a-condition](https://github.com/Nidhiansh/leetcode/tree/master/1527-patients-with-a-condition) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Nidhiansh/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## String Matching
 |  |
 | ------- |
