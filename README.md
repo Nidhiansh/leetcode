@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Nidhiansh/leetcode/tree/master/0079-word-search) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nidhiansh/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nidhiansh/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/Nidhiansh/leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Nidhiansh/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nidhiansh/leetcode/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/Nidhiansh/leetcode/tree/master/0396-rotate-function) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Nidhiansh/leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Nidhiansh/leetcode/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nidhiansh/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nidhiansh/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiansh/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Nidhiansh/leetcode/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nidhiansh/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiansh/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1306-jump-game-iii](https://github.com/Nidhiansh/leetcode/tree/master/1306-jump-game-iii) |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Nidhiansh/leetcode/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Matrix
 |  |
@@ -57,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nidhiansh/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nidhiansh/leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Nidhiansh/leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Nidhiansh/leetcode/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nidhiansh/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2326-spiral-matrix-iv](https://github.com/Nidhiansh/leetcode/tree/master/2326-spiral-matrix-iv) |
