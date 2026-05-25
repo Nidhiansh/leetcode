@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Nidhiansh/leetcode/tree/master/0877-stone-game) |
 | [1306-jump-game-iii](https://github.com/Nidhiansh/leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1539-kth-missing-positive-number](https://github.com/Nidhiansh/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Nidhiansh/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nidhiansh/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2326-spiral-matrix-iv](https://github.com/Nidhiansh/leetcode/tree/master/2326-spiral-matrix-iv) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nidhiansh/leetcode/tree/master/0268-missing-number) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nidhiansh/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiansh/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1539-kth-missing-positive-number](https://github.com/Nidhiansh/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Nidhiansh/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Binary Tree
 |  |
