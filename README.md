@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Nidhiansh/leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Nidhiansh/leetcode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Nidhiansh/leetcode/tree/master/0402-remove-k-digits) |
+| [0520-detect-capital](https://github.com/Nidhiansh/leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Nidhiansh/leetcode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nidhiansh/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nidhiansh/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
