@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Nidhiansh/leetcode/tree/master/0399-evaluate-division) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nidhiansh/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Nidhiansh/leetcode/tree/master/0455-assign-cookies) |
+| [0473-matchsticks-to-square](https://github.com/Nidhiansh/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0735-asteroid-collision](https://github.com/Nidhiansh/leetcode/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/Nidhiansh/leetcode/tree/master/0877-stone-game) |
 | [1306-jump-game-iii](https://github.com/Nidhiansh/leetcode/tree/master/1306-jump-game-iii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nidhiansh/leetcode/tree/master/0042-trapping-rain-water) |
 | [0097-interleaving-string](https://github.com/Nidhiansh/leetcode/tree/master/0097-interleaving-string) |
 | [0396-rotate-function](https://github.com/Nidhiansh/leetcode/tree/master/0396-rotate-function) |
+| [0473-matchsticks-to-square](https://github.com/Nidhiansh/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0877-stone-game](https://github.com/Nidhiansh/leetcode/tree/master/0877-stone-game) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nidhiansh/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -185,11 +187,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Nidhiansh/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Nidhiansh/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Nidhiansh/leetcode/tree/master/0079-word-search) |
+| [0473-matchsticks-to-square](https://github.com/Nidhiansh/leetcode/tree/master/0473-matchsticks-to-square) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nidhiansh/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Nidhiansh/leetcode/tree/master/0268-missing-number) |
+| [0473-matchsticks-to-square](https://github.com/Nidhiansh/leetcode/tree/master/0473-matchsticks-to-square) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nidhiansh/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Tree
 |  |
@@ -268,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nidhiansh/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/Nidhiansh/leetcode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
