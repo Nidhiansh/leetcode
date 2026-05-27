@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nidhiansh/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nidhiansh/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nidhiansh/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Nidhiansh/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Stack
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nidhiansh/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nidhiansh/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nidhiansh/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Nidhiansh/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Backtracking
 |  |
 | ------- |
