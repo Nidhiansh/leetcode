@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-product-price-at-a-given-date](https://github.com/Nidhiansh/leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1527-patients-with-a-condition](https://github.com/Nidhiansh/leetcode/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Nidhiansh/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Nidhiansh/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 ## String Matching
 |  |
 | ------- |
