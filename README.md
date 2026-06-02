@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Nidhiansh/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nidhiansh/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Nidhiansh/leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nidhiansh/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2326-spiral-matrix-iv](https://github.com/Nidhiansh/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Nidhiansh/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2653-sliding-subarray-beauty](https://github.com/Nidhiansh/leetcode/tree/master/2653-sliding-subarray-beauty) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Nidhiansh/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Nidhiansh/leetcode/tree/master/0455-assign-cookies) |
 | [2126-destroying-asteroids](https://github.com/Nidhiansh/leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nidhiansh/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nidhiansh/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nidhiansh/leetcode/tree/master/0455-assign-cookies) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nidhiansh/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Nidhiansh/leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nidhiansh/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nidhiansh/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Recursion
 |  |
