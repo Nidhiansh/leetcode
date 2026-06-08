@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nidhiansh/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Nidhiansh/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nidhiansh/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Nidhiansh/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nidhiansh/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2326-spiral-matrix-iv](https://github.com/Nidhiansh/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Nidhiansh/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nidhiansh/leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiansh/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Nidhiansh/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Nidhiansh/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nidhiansh/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nidhiansh/leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Nidhiansh/leetcode/tree/master/0735-asteroid-collision) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Nidhiansh/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/Nidhiansh/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Nidhiansh/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Greedy
