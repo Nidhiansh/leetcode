@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Nidhiansh/leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nidhiansh/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nidhiansh/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Nidhiansh/leetcode/tree/master/0877-stone-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nidhiansh/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nidhiansh/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nidhiansh/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Nidhiansh/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Simulation
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nidhiansh/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nidhiansh/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nidhiansh/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nidhiansh/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
 | ------- |
