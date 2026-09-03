@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/Nidhiansh/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/Nidhiansh/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Nidhiansh/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nidhiansh/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nidhiansh/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Nidhiansh/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Nidhiansh/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
 | ------- |
