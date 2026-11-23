@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Nidhiansh/leetcode/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/Nidhiansh/leetcode/tree/master/0877-stone-game) |
 | [1306-jump-game-iii](https://github.com/Nidhiansh/leetcode/tree/master/1306-jump-game-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nidhiansh/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nidhiansh/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1539-kth-missing-positive-number](https://github.com/Nidhiansh/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Nidhiansh/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nidhiansh/leetcode/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/Nidhiansh/leetcode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/Nidhiansh/leetcode/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nidhiansh/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nidhiansh/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nidhiansh/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nidhiansh/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -345,4 +347,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nidhiansh/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nidhiansh/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nidhiansh/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nidhiansh/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
